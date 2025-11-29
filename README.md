@@ -71,4 +71,4 @@ Clone the repository and run:
 ```r
 library(shiny)
 shiny::runApp("path_to_project/")
-
+ or use this code in rstudio which will direct to rshiny app.
